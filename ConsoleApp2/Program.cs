@@ -55,6 +55,7 @@ namespace CasinoVegas
                     {
                         if (Bet == 0)
                         {
+                            //Add test comment
                             Console.WriteLine("\nIf you aren't going to bet any money, why are you here... -_-");
                             Console.WriteLine("I'll ask again.");
                         }
